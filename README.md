@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo!</h1>
 <h3 align="center">A passionate data scientist/analyst with a background in engineering and business</h3>
 
+I’ve worked in roles ranging from financial management to consulting, where I helped companies improve their strategic decisions through data analysis. 
+Most recently, I completed an intensive Data Science bootcamp at Le Wagon, where I sharpened my skills in Python, SQL, and machine learning.
+What sets me apart is my ability to merge technical skills with business insights, helping organizations not just analyze data but make informed, actionable decisions. 
+I’m excited to bring my expertise in data and strategy to new challenges and drive impactful results.
+
 - 📫 How to reach me **eduardomizumoto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
